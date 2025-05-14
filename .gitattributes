@@ -1,0 +1,26 @@
+# Texto: asegura fin de línea LF
+* text=auto eol=lf
+
+# Archivos de código y marcado como texto
+*.html text
+*.css text
+*.js text
+*.md text
+
+# Imágenes como binarios
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
+
+# Videos como binarios
+*.mp4 binary
+*.webm binary
+
+# Modelos 3D como binarios
+*.fbx binary
+*.obj binary
+*.glb binary
+*.gltf binary
+

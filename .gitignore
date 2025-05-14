@@ -1,0 +1,18 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+
+# VS Code config (opcional)
+.vscode/
+
+# Archivos de sistema operativo
+ehthumbs.db
+Icon?
+
+# Unity WebGL build output (si usas Unity más adelante, descomenta esta línea)
+# /Build/
